@@ -9,7 +9,7 @@ This is sandbox for httpd by vagrant.
 - Virtual Box 4.3.6 or later
 
 # Usage
-Run command bellow.
+Run this command.
 
 ```shell
 git clone git@github.com:betahikaru/vagrant-httpd.git
