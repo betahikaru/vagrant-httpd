@@ -18,7 +18,7 @@ vagrant up
 open http://localhost:8081/
 ```
 
-Edit ```./data``` as DocumentRoot directory. This directory has index.html and enchant.js and some image for a charactor.
+Edit ```data/html/``` as DocumentRoot directory. This directory has index.html and enchant.js and a image of bear charactor.
 When you edit file, run ```vagrant provision``` command. Then DocumentRoot directory is refresh by vagrant provisioning process defined by shellscript in Vagrant file.
 
 
